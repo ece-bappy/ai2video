@@ -1,0 +1,7 @@
+google-generativeai
+requests
+python-dotenv
+edge-tts
+moviepy
+pillow
+openai-whisper
